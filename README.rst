@@ -48,7 +48,7 @@ Get Involved
    <https://github.com/ansible/community/wiki>`_, an organized community devoted to a specific technology domain or platform.
 *  Submit a proposed code update through a pull request to the ``devel`` branch.
 *  Talk to us before making larger changes
-   to avoid duplicate efforts. This not only helps everyone
+   to avoid duplicating efforts. This not only helps everyone
    know what is going on, but it also helps save time and effort if we decide
    some changes are needed.
 *  For a list of email lists, IRC channels and Working Groups, see the
